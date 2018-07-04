@@ -76,6 +76,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dm01_测试.c" />
+    <ClCompile Include="dm02_学员学习标准.c" />
+    <ClCompile Include="dm03_数据类型分析.c" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

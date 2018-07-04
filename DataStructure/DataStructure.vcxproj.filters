@@ -18,5 +18,14 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="dm01_测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dm02_学员学习标准.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dm03_数据类型分析.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
